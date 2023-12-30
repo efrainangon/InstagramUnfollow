@@ -1,5 +1,5 @@
 {
-  "path": "AppData\Local\Google\Chrome\User Data\Default",
+  "path": "AppData\\Local\\Google\\Chrome\\User Data\\Default",
   "username": "username",
   "password": "password",
   "data": "connections\\followers_and_following\\",
